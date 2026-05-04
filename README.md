@@ -10,6 +10,7 @@ not autonomous waste-management decision-making.
 ---
 
 ## Project Structure
+
 ├── notebooks/
 │ ├── 01_Waste_Class_EDA.ipynb # Dataset exploration, duplicate analysis, embeddings
 │ └── 02_Waste_Class_Modeling.ipynb # Modeling pipeline, evaluation, Grad-CAM
